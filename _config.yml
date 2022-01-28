@@ -25,9 +25,9 @@ author: Zhenlin Zhu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#   Research Interests:
+#     - the Galactic Center: "gc"
+#     - Galactic Clusters Outskirts: "outskirts"
   Publications: "https://ui.adsabs.harvard.edu/user/libraries/pz5SbATKSB2KeqDXHAJy6w"
 
 # --- Logo --- #
